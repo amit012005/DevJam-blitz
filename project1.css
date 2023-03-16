@@ -18,7 +18,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background: white url('index.jpg') no-repeat left 5% top 40%;
+/*   background: white url('index.jpg') no-repeat left 5% top 40%; */
 
 }
 
