@@ -96,6 +96,7 @@ section ul li {
 }
 
 section ul li a {
+  max-width: 34vw;
   display: block;
   padding: 0.5vw;
   background-color: #fff;
