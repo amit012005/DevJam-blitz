@@ -21,6 +21,10 @@ body {
 /*   background: white url('index.jpg') no-repeat left 5% top 40%; */
 
 }
+.img{
+  margin-right: 80vw;
+  width: 10%;
+}
 
 header {
   background-color: #333;
